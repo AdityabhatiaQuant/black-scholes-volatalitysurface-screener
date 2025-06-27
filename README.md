@@ -42,8 +42,8 @@ Welcome to the **Black-Scholes Visualizer** — your one-stop interactive tool t
 ## 🥪 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/black-scholes-visualizer.git
-cd black-scholes-visualizer
+git clone https://github.com/AdityabhatiaQuant/black-scholes-volatalitysurface-screener.git
+cd black-scholes-volatalitysurface-screener
 pip install -r requirements.txt
 streamlit run Adi5.py
 ```
